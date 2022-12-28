@@ -11,7 +11,7 @@ import lombok.Data;
 
 @Entity
 @Data
-public class EligibilityTest {
+public class EligibilityDetails {
 
 	@Id
 	private Integer eligId; //genvalue not needed for retriving data
